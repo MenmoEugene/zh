@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">专栏</string>
+    <string name="action_settings">偏好設定</string>
+    <string name="settings_others_about">關於我</string>
+    <string name="network_error">網絡出錯啦~再試一下唄~</string>
+    <string name="searching">搜索</string>
+    <string name="display_format">M月d日 EEEE</string>
+    <string name="bxbxbai">bxbxbai开发</string>
+    <string name="comment_count">%d 条评论</string>
+    <string name="all_people">所有内置用户</string>
+    <string name="recent_news">最近一周文章</string>
+    <string name="days_ago">%d 天前</string>
+    <string name="follower">%d 人关注</string>
+    <string name="like_count">%d 贊</string>
+    <string name="user_count">%d专栏</string>
+    <string name="origin_web_page">查看原网页</string>
+</resources>
